@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+
+My name is Edward Rivera.
+
+I am a data analyst with experience working in SQL and Python. I am currently working on learning additional languages and improving my skills in advanced machine learning techniques. 
+
+### Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed12rivera&theme=algolia" />
+
 
 <!--
 **ed12rivera/ed12rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
