@@ -2,7 +2,7 @@
 
 My name is Edward Rivera.
 
-I am a data analyst with experience working in SQL and Python. I am currently working on learning additional languages and improving my skills in advanced machine learning techniques. 
+I am an aspiring data analyst with experience in revenue management. I have worked with SQL and Python in a work environment and am working on expanding my knowledge in JavaScript, VBA, and NoSQL. I hope to leverage these new skills into a data analyst position while continuing to learn with the goal of becoming a data scientist one day soon.
 
 ### Github Stats
 
